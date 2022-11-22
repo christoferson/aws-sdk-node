@@ -1,0 +1,22 @@
+{
+  "name": "aws-sdk-node",
+  "version": "1.0.0",
+  "description": "AWS SDK JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christoferson/aws-sdk-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christoferson/aws-sdk-node/issues"
+  },
+  "homepage": "https://github.com/christoferson/aws-sdk-node#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1259.0"
+  }
+}
